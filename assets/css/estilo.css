@@ -1,0 +1,20 @@
+@charset "utf-8";
+
+*{
+	margin: 0px;
+	padding: 0px;
+}
+.slider{
+	display: block;
+	position: relative;
+	margin: auto;
+	width: 100%;
+	overflow: hidden;
+}
+.contenedor .articulo{
+	height:100px;
+	width: 400px;
+	display:block;
+	float: left;	
+	box-sizing: border-box;	
+}
